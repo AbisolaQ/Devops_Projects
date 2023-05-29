@@ -18,8 +18,6 @@
 
 ![permissionsfix.png](Images_P9/permissionsfix.png)
 
-# Configure the job/project to copy artifacts over to NFS server
+## Configure the job/project to copy artifacts over to NFS server
 
 ![copyartifactstoNFSserver.png](Images_P9/copyartifactstoNFSserver.png)
-
-
