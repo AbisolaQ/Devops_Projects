@@ -25,4 +25,3 @@
 ![step6.png](Images_P7\step6.png)
 
 ![verifyapachefiles.png](Images_P7/verifyapachefiles.png)
-
