@@ -22,6 +22,7 @@
 
 ![step5.png](Images_P7/step5.png)
 
-![step6.png](Images_P7/step6.png)
+![step6.png](Images_P7\step6.png)
 
 ![verifyapachefiles.png](Images_P7/verifyapachefiles.png)
+
